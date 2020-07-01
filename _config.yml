@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Public Interface"
 title_separator          : "-"
-name                     : "Geonu Jeon"
+name                     : "Public Interface"
 description              : "An amazing website."
 url                      : "https://geonu1109.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "geonu1109"
+  name             : "Geonu Jeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "iOS Developer"
   location         : "Republic of Korea"
